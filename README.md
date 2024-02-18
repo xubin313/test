@@ -7,3 +7,4 @@ server modification 111
 test git pull
 test git fetch --all master
 test git fetch11
+check index
